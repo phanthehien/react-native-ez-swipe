@@ -1,5 +1,5 @@
 {
-  "name": "rn-swipe-out",
+  "name": "react-native-ez-swipe",
   "version": "0.3.0",
   "description": "The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.",
   "keywords": [
@@ -14,10 +14,7 @@
     "swipe"
   ],
   "author": "ChuangChuang",
-  "bugs": {
-    "url": "https://github.com/SmallComfort/rn-swipe-out/issues"
-  },
-  "homepage": "https://github.com/SmallComfort/rn-swipe-out",
+  "homepage": "https://github.com/phanthehien/react-native-ez-swipe.git",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
@@ -43,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmallComfort/rn-swipe-out.git"
+    "url": "git+https://github.com/phanthehien/react-native-ez-swipe.git"
   }
 }
